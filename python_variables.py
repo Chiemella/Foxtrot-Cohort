@@ -94,7 +94,24 @@ print(r)
 
 
 
+
+#Python - Output Variables
 NameCart = "Jonny"
 CartName = "is"
 _nameCart = "my Friend"
 print(NameCart, CartName, _nameCart)
+
+"""
+In the print() function, you output multiple variables, separated by a comma
+You can also use the + operator to output multiple variables
+"""
+
+
+
+
+# Global Variables
+e = "awesome"
+def myfunc():
+    print("Python is " + e)
+
+myfunc()
