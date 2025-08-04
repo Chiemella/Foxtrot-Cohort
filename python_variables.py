@@ -1,8 +1,10 @@
+#Creating Variables
 m = 5
 y = "home"
 
 print(m)
 print(y)
+
 
 # Variables does need to be declared with any type, and can even chnage after
 
@@ -24,3 +26,11 @@ r = float (3)
 print(o)
 print(p)
 print(r)
+
+
+#Getting the data tye of a variable using () functions
+
+a = 5
+b = "John"
+print(type(a))
+print(type(b))
