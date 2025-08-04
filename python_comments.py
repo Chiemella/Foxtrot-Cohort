@@ -5,4 +5,4 @@ print('Single line comments')
 """
 This is a multiloine comments
 """
-print('Multi-line comments')
+print('Multiple line comments')
