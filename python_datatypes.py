@@ -9,3 +9,17 @@ print(type(x))
 
 y = "John"
 print(type(y))
+
+
+# MAJOR DATA TYPES
+"""
+Text: str
+Numeric: int, float
+Boolean: bool
+"""
+
+
+s = str("John")
+
+print(s)
+print(type(s))
