@@ -1,4 +1,4 @@
-#Assign String to a Variable
+# Assign String to a Variable
 a = "Hello"
 print(a)
 
@@ -7,3 +7,19 @@ b = """Hey, br.
 How're you doing today?
 Nice to meet you!"""
 print(b) 
+
+# Or three single quotes:
+c = '''Lorem ipsum dolor sit amet,
+consectetur adipiscing elit,
+sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua.'''
+print(c)
+
+# Strings are Arrays
+word = "HELLO"
+letter  = list(word)
+print(letter)
+
+# Looping Through a String
+for d in "home":
+    print(d)
