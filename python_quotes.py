@@ -14,12 +14,3 @@ consectetur adipiscing elit,
 sed do eiusmod tempor incididunt
 ut labore et dolore magna aliqua.'''
 print(c)
-
-# Strings are Arrays
-word = "HELLO"
-letter  = list(word)
-print(letter)
-
-# Looping Through a String
-for d in "home":
-    print(d)

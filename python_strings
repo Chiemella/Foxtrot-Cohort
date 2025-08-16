@@ -1,0 +1,8 @@
+# Strings are Arrays
+word = "HELLO"
+letter  = list(word)
+print(letter)
+
+# Looping Through a String
+for d in "home":
+    print(d)
