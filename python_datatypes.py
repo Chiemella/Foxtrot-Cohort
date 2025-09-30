@@ -23,3 +23,4 @@ s = str("John")
 
 print(s)
 print(type(s))
+
