@@ -25,4 +25,16 @@ False # Boolean
 
 first_name = "" # Snake case
 
-world = " "
+
+
+world = "Hello World!"
+# print(world)
+
+# Arithmetic Operators
+'''
++ Addition (Datatypes - Inetgers, Floats, Strings)
+* Multiplication (Datatypes - Inetgers, Floats, Strings)
+/ Division (Datatypes - Inetgers, Floats)
+// Floor Division (For rounding down values) (Datatypes - Inetgers, Floats)
+'''
+
