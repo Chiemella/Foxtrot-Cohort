@@ -24,3 +24,5 @@ False # Boolean
 
 
 first_name = "" # Snake case
+
+world = " "
