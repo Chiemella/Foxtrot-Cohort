@@ -38,3 +38,5 @@ world = "Hello World!"
 // Floor Division (For rounding down values) (Datatypes - Inetgers, Floats)
 '''
 
+additon = 12 + 12
+print(addition)
