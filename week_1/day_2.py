@@ -33,10 +33,38 @@ world = "Hello World!"
 # Arithmetic Operators
 '''
 + Addition (Datatypes - Inetgers, Floats, Strings)
+- Subtraction (Datatypes - Inetgers, Floats, Strings)
 * Multiplication (Datatypes - Inetgers, Floats, Strings)
 / Division (Datatypes - Inetgers, Floats)
 // Floor Division (For rounding down values) (Datatypes - Inetgers, Floats)
 '''
 
-additon = 12 + 12
+addition = 12 + 12 # Addition
+concatenation = "Miracle" + "King" # Concatenation
+repitition = "Hurray" * 3 # Repitition
+
+print(concatenation)
 print(addition)
+print(repitition)
+
+
+
+first_number = 4 
+second_number = 6
+
+# Addition
+add = first_number + second_number
+print("Addition:", add)
+
+# Substraction
+subsctract = first_number - second_number
+print("Subsctraction:", subsctract)
+
+# Division
+divide = first_number / second_number
+print("Division:", divide)
+
+# Multiplication 
+multiply = first_number * second_number
+print("Muplication:", multiply)
+
