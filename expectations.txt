@@ -1,0 +1,80 @@
+# Month 1 – Foundation (Beginner → Amateur)
+
+## Focus: Building comfort with Python basics
+
+### Learn and practice
+- Python syntax, variables, data types (int, float, string, boolean)
+- Control structures: `if`, `else`, `elif`
+- Loops: `for`, `while`
+- Functions (parameters, return values)
+- Lists, tuples, sets, dictionaries
+- Error handling (`try-except`)
+
+### Tools
+- Learn to use IDEs (VS Code, PyCharm, or Jupyter), Git basics
+
+### Expectations by end of Month 1
+- Write clean, small scripts
+- Solve simple coding challenges (FizzBuzz, factorial, Fibonacci, etc.)
+- Be comfortable running Python programs locally
+- Understand how to read Python documentation
+
+---
+
+# Month 2 – Intermediate (Amateur → Skilled Learner)
+
+## Focus: Problem-solving + real-world application
+
+### Learn and practice
+- File handling (read/write files, CSV, JSON)
+- Modules & Packages (importing, using libraries)
+- Object-Oriented Programming (classes, objects, inheritance)
+- Virtual environments & pip package management
+- Debugging and testing (using `unittest` or `pytest`)
+
+### Start projects like
+- A calculator app
+- A to-do list CLI program
+- Web scraping with `requests` & `BeautifulSoup`
+- Data visualization with `matplotlib`
+
+### Expectations by end of Month 2
+- Comfortably solve medium-level problems on LeetCode/HackerRank
+- Build at least 2–3 small projects
+- Understand OOP and apply it in your code
+- Start thinking like a programmer (not just writing code, but structuring solutions)
+
+---
+
+# Month 3 – Advanced (Skilled → Pre-Professional Level)
+
+## Focus: Applied Python + deeper concepts
+
+### Learn and practice
+- Advanced data structures (stacks, queues, linked lists)
+- Algorithms (searching, sorting, recursion basics)
+- APIs (consume REST APIs using `requests`)
+- Databases (SQLite or PostgreSQL with `sqlite3` or `SQLAlchemy`)
+- Introduction to frameworks:
+  - Flask/Django (web apps) OR
+  - Pandas/Numpy (data analysis)
+
+### Projects to attempt
+- A blog or note-taking web app (Flask/Django)
+- A mini data analysis dashboard with Pandas/Matplotlib
+- A simple REST API
+
+### Expectations by end of Month 3
+- Comfortably solve intermediate problems and attempt some advanced ones
+- Have 4–6 completed projects to show in a portfolio
+- Be able to read and understand other people’s Python code
+- Gain enough confidence to apply Python in real-world scenarios (web, automation, or data)
+
+---
+
+# Summary Expectation in 3 Months
+- Month 1: Syntax, logic, problem-solving basics  
+- Month 2: OOP, file handling, real projects, debugging  
+- Month 3: Advanced problem-solving, APIs, databases, frameworks, portfolio projects  
+
+To stay consistent (1–2 hours daily, plus projects), you can move from amateur → competent intermediate, and be ready for advanced learning (ML, web dev, or automation) afterward.
