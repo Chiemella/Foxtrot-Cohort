@@ -23,7 +23,7 @@ True
 False # Boolean
 
 
-first_name = "" # Snake case
+first_name = "Miracle" # Snake case
 
 
 
@@ -54,17 +54,48 @@ second_number = 6
 
 # Addition
 add = first_number + second_number
-print("Addition:", add)
+print("Addition:", add, "Type:", type(add))
 
 # Substraction
 subsctract = first_number - second_number
-print("Subsctraction:", subsctract)
+print("Subsctraction:", subsctract, "Type:", type(subsctract))
 
 # Division
 divide = first_number / second_number
-print("Division:", divide)
+print("Division:", divide, "Type:", type(divide))
 
 # Multiplication 
 multiply = first_number * second_number
-print("Muplication:", multiply)
+print("Muplication:", multiply, "Type:", type(multiply))
 
+
+
+# Casting - Changing one data type to another data type
+'''
+int() - to convert to integer (string, float)
+str() - ... string (integer, boolean, float)
+float() - ... float (integer, boolean, float)
+bool() - ... boolean ("string")
+'''
+
+# Converting divide to an integer
+convert_to_int = int(divide)
+print("converting divide to integer:", convert_to_int, type(convert_to_int))
+
+convert_to_int = int(add) 
+print("converting addition to integer:", convert_to_int, type(convert_to_int))
+
+convert_to_int = int(multiply)
+print("converting division to integer:", convert_to_int, type(convert_to_int) )
+
+convert_to_int = int(subsctract)
+print("converting substraction to integer:", convert_to_int, type(convert_to_int))
+
+
+# Re-assigning a variable
+nationality = "United State of America"
+nationality = "Nigeria"
+nationality = "France"
+
+introduction = "My name is" + " " + first_name + " " + "and I am from" +  " "+ nationality
+print(introduction)
